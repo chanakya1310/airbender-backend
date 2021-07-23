@@ -79,7 +79,7 @@
         "display_name": "Minkush Jain",
         "tagline": "Think Big. Train Fast. Learn Deep."
     },
-    "Chanakya":{
+    "chanakya1310":{
         "display_name": "Chanakya Kapoor",
         "tagline": "Making Machines Learn"
     },
@@ -87,7 +87,11 @@
         "display_name": "Yajat Malhotra",
         "tagline": "🍉"
     },
-    "batmansingh":{
+    "AgentAce":{
+        "display_name": "Vishesh Bansal",
+        "tagline": "Breaking machines since 2002."
+    },
+    "Yuvraj":{
         "display_name": "Yuvraj Singh Pathania",
         "tagline": "Part time developer, full-time learner"
     }
